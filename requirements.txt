@@ -2,4 +2,5 @@ python-telegram-bot==20.3
 notion-client==2.7.0
 requests
 beautifulsoup4
+lxml
 python-dotenv
