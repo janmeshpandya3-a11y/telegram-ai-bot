@@ -1,5 +1,5 @@
 python-telegram-bot==20.3
-notion-client==0.8.1
+notion-client==2.7.0
 requests
 beautifulsoup4
 python-dotenv
