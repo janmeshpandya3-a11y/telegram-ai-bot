@@ -1,0 +1,14 @@
+{
+  "force_prefix": {
+    "S:": "SHOPPING",
+    "T:": "TASK",
+    "R:": "REMINDER",
+    "I:": "IDEA"
+  },
+  "keyword_overrides": {
+    "for mom": {"subcategory": "Gift"},
+    "dentist": {"type": "TASK"},
+    "flight": {"subcategory": "Travel"}
+  },
+  "ignore_if_contains": ["meme", "lol"]
+}
